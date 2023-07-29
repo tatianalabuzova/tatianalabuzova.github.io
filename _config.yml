@@ -20,9 +20,9 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Artem Timoshenko'
+title:		           'Tatiana Labuzova'
 description:	       ''
-author:              'Artem Timoshenko'
+author:              'Tatiana Labuzova'
 
 url: https://www.artemtimoshenko.com
 baseurl: ""
