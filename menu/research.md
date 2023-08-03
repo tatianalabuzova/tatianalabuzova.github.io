@@ -8,9 +8,9 @@ Organizations, Labor Markets, Gender Equality, Careers, Creativity, and Decision
 
 ### Refereed Publications
 
-Curhan, Jared R., Tatiana Labuzova, and Aditi Mehta. "Cooperative Criticism: When Criticism Enhances Creativity in Brainstorming and Negotiation." _Organization Science_ (2021). [[Journal]](https://doi.org/10.1287/orsc.2020.1420)
+Curhan, Jared R., <b>Tatiana Labuzova</b>, and Aditi Mehta. "Cooperative Criticism: When Criticism Enhances Creativity in Brainstorming and Negotiation." _Organization Science_ (2021). [[Journal]](https://doi.org/10.1287/orsc.2020.1420)
 
-Bond, Brittany M., Tatiana Labuzova, and Roberto M. Fernandez. "At the Expense of Quality." _Sociological Science_ (2018). [[Journal]](https://doi.org/10.15195/v5.a17)
+Bond, Brittany M., <b>Tatiana Labuzova</b>, and Roberto M. Fernandez. "At the Expense of Quality." _Sociological Science_ (2018). [[Journal]](https://doi.org/10.15195/v5.a17)
 
 ### Proceedings (excerpt)
 
