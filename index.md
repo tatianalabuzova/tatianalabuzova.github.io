@@ -8,7 +8,9 @@ layout: page
     <img src="/assets/img/YBP_9632.jpeg" width="150">
   </div>
 
-  <p>I am a PhD Candidate at MIT Sloan in the Behavioral and Policy Sciences (BPS) area. My research primarily focuses on organizational processes surrounding diversity and decision-making. In my job market paper, I delve into the study of how remote work options affect career choices—exploring the implications of shifting towards work-from-anywhere on job seekers' decisions and its consequences for gender equality.</p>
+  <p>I am a PhD Candidate at MIT Sloan in the Behavioral and Policy Sciences (BPS) area.</p>
+    
+  <p>My research primarily focuses on organizational processes surrounding diversity and decision-making. In my job market paper, I delve into the study of how remote work options affect career choices—exploring the implications of shifting towards work-from-anywhere on job seekers' decisions and its consequences for gender equality.</p>
 
   <p>Please find my CV <a href="/assets/cv/CV Tatiana Labuzova - 2023.08.02.pdf">here.</a></p>
 
