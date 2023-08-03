@@ -6,9 +6,9 @@ title: Teaching
 
 ### Massachusetts Institute of Technology, Sloan School of Management
 
-<p><b>Negotiation Analysis, Negotiation Seminar, Negotiation and Influence</b><br>
+#### Negotiation Analysis, Negotiation Seminar, Negotiation and Influence
 Teaching Assistant for Professor Jared Curhan<br>
-The course received the Teaching with Digital Technology Award from MIT.</p>
+The course received the Teaching with _Digital Technology Award_ from MIT.
 
 <p><b>Leading Organizations</b>, Teaching Assistant for Professor Elsbeth Johnson <br>
 Supported the class for 100 Executive MBA students for a few consecutive years.</p>
