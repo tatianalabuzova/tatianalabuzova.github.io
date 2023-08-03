@@ -18,5 +18,5 @@ New Economic School <br>
 
 __Diploma in International Economics and Management__ <br>
 Lomonosov Moscow State University <br>
-_Summa cum laude_
+_Summa cum laude_ <br>
 2012
