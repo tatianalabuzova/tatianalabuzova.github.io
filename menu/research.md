@@ -12,20 +12,8 @@ Curhan, Jared R., <b>Tatiana Labuzova</b>, and Aditi Mehta. "Cooperative Critici
 
 Bond, Brittany M., <b>Tatiana Labuzova</b>, and Roberto M. Fernandez. "At the Expense of Quality." _Sociological Science_ (2018). [[Journal]](https://doi.org/10.15195/v5.a17)
 
-### Proceedings (excerpt)
+### Dissertation Project
 
-Schrage R, Kenning P, Guhl D, and Gabel S (2020). Price Personalization Technology in Retail Stores: Examining the Role of Users’ Trust. In _Proceedings of the 41st International Conference on Information Systems (ICIS)_. [[Journal]](https://aisel.aisnet.org/icis2020/implement_adopt/implement_adopt/7/)
+<b>Tatiana Labuzova</b> " Work-from-Anywhere and Gender Equality: The Gendered Effects of COVID-19 Lockdowns on Job Posting Views and Application Submissions." _In progress_. 
 
-Gabel S and Klapper D (2017). Embedding Products in Latent Attribute Spaces: Implications for Managing Assortments in FMCG Retailing. In _Proceedings of the 46th EMAC Conference, Groningen_ (Finalist EMAC best paper award based on a doctoral dissertation).
-
-
-### Working papers
-
-Gabel S, Simester D, and Timoshenko A (2023). Retail Media Platforms: Learning Treatment Effects Across Brands. [Working paper]
-
-Gabel S and Ringel D (2023). Basket Representation Learning: The Swiss Army Knife of Market Basket Analysis. [Working paper]
-
-Gabel S, Molitor D, and Spann M (2023). The Effect of an Ad Ban on Retailer Sales: Insights from a Natural Experiment. [Working paper]
-
-Gabel S and Guhl D (2022). Coupon Personalization in Retail Promotion Networks: Evidence from 809 Brand Campaigns. [Working paper]
-
+<p margin-left=30px>In a pre-registered study of more than 1,000,000 job seekers, I analyze the impact of the COVID-19 lockdown on the job search behavior. In particular, exploring the natural experiment of the lockdowns, I examine how the external shock to the provision of work-from-anywhere jobs affects supply-side job search behavior and the gender gap in the level of offered compensation for those jobs.</p>
