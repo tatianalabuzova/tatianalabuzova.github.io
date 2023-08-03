@@ -14,6 +14,7 @@ The course received the Teaching with _Digital Technology Award_ from MIT.
 Teaching Assistant for Professor Elsbeth Johnson <br>
 Supported the class for 100 Executive MBA students for a few consecutive years.
 
-<p><b>Marketing and Strategy</b>, Teaching Assistant for Professor Duncan Simester <br>
-Supported the class for 120 Executive MBA students a few consecutive years.</p>
+#### Marketing and Strategy
+Teaching Assistant for Professor Duncan Simester <br>
+Supported the class for 120 Executive MBA students a few consecutive years.
 
