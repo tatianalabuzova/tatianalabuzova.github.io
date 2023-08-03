@@ -17,4 +17,4 @@ Bond, Brittany M., __Tatiana Labuzova__, and Roberto M. Fernandez. "At the Expen
 
 __Tatiana Labuzova__ " Work-from-Anywhere and Gender Equality: The Gendered Effects of COVID-19 Lockdowns on Job Posting Views and Application Submissions." _In progress_. 
 
-<p>In a pre-registered study of more than 1,000,000 job seekers, I analyze the impact of the COVID-19 lockdown on the job search behavior. In particular, exploring the natural experiment of the lockdowns, I examine how the external shock to the provision of work-from-anywhere jobs affects supply-side job search behavior and the gender gap in the level of offered compensation for those jobs.</p>
+<p>In a pre-registered study of over 1,000,000 job seekers, I analyze the impact of the COVID-19 lockdown on job search behavior. Specifically, I explore the natural experiment of the lockdowns to examine how the external shock to the availability of work-from-anywhere jobs influences supply-side job search behavior and the gender wage gap in pursued positions.</p>
