@@ -11,8 +11,8 @@ menu:
 - {name: 'Education', path: 'menu', url: 'education.html'}
 
 social:
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/tatiana-labuzova-2b016438/'}
 - {icon: 'envelope', link: 'mailto:labuzova@mit.edu'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/tatiana-labuzova-2b016438/'}
 
 pagination:
   next_page: 'Newer'
