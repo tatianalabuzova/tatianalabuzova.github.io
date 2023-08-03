@@ -13,6 +13,5 @@ __M.A. in Economics__ <br>
 2012 – 2014  <br>
 New Economic School, Moscow, Russia
 
-__Diploma in Applied Mathematics and Computer Science__ <br>
-2008 – 2013 <br>
+2012 __Diploma _Summa cum laude_ in International Economics and Management__ <br>
 Lomonosov Moscow State University, Moscow, Russia
