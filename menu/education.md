@@ -3,16 +3,16 @@ layout: page
 title: Education
 ---
 
-__Ph.D. in Management—Economic Sociology__, Exp. 2024<br>
+<span style="color:#000000"><b>Ph.D. in Management—Economic Sociology</b></span>, Exp. 2024<br>
 Massachusetts Institute of Technology, Sloan School of Management <br>
-Advisor: Roberto Fernandez
+<span style="color:#000000"><b>Advisor</b></span>: Roberto Fernandez
 
-__S.M. in Management Research__, 2021<br>
+<span style="color:#000000"><b>S.M. in Management Research</b></span>, 2021<br>
 Massachusetts Institute of Technology, Sloan School of Management
 
-__M.A. in Economics - Industrial Organizations__, 2014 <br>
+<span style="color:#000000"><b>M.A. in Economics - Industrial Organizations</b></span>, 2014 <br>
 New Economic School <br>
 
-__Diploma in International Economics and Management__, 2012 <br>
+<span style="color:#000000"><b>Diploma in International Economics and Management</b></span>, 2012 <br>
 Lomonosov Moscow State University <br>
 _Summa cum laude_ <br>
