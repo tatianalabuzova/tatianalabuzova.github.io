@@ -5,7 +5,6 @@ title: Education
 
 <span style="color:#000000"><b>Ph.D. in Management—Economic Sociology</b></span>, Exp. 2024<br>
 Massachusetts Institute of Technology, Sloan School of Management <br>
-<span style="color:#000000"><b>Advisor: Roberto Fernandez</b></span>
 
 <span style="color:#000000"><b>S.M. in Management Research</b></span>, 2021<br>
 Massachusetts Institute of Technology, Sloan School of Management
