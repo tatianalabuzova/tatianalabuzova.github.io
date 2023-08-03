@@ -6,7 +6,7 @@ title: Education
 __Ph.D. in Management—Economic Sociology__ <br>
 Exp. 2024<br>
 Massachusetts Institute of Technology, Sloan School of Management <br>
-Dissertation: “Work-from-Anywhere and Gender Equality: The Gendered Effects of COVID-19 Lockdowns on Job Application Decisions.”
+Advisor: Roberto Fernandez
 
 __S.M. in Management Research__ <br>
 2021<br>
