@@ -3,15 +3,19 @@ layout: page
 title: Education
 ---
 
+__Ph.D. in Management—Economic Sociology__ <br>
+Exp. 2024<br>
+Massachusetts Institute of Technology, Sloan School of Management <br>
+Dissertation: “Work-from-Anywhere and Gender Equality: The Gendered Effects of COVID-19 Lockdowns on Job Application Decisions.”
 
-__Ph.D. in Marketing__ <br>
-2014 – 2019 <br>
-Massachusetts Institute of Technology, Cambridge, MA  <br>
-Thesis: [Machine Learning Methods for Targeting and New Product Development](https://dspace.mit.edu/handle/1721.1/123572)
+__S.M. in Management Research__ <br>
+2021<br>
+Massachusetts Institute of Technology, Sloan School of Management
 
-__M.A. in Economics__ <br>
-2012 – 2014  <br>
-New Economic School, Moscow, Russia
+__M.A. in Economics - Industrial Organizations__ <br>
+New Economic School <br>
+2014
 
-2012 __Diploma _Summa cum laude_ in International Economics and Management__ <br>
-Lomonosov Moscow State University, Moscow, Russia
+__Diploma _Summa cum laude_ in International Economics and Management__ <br>
+Lomonosov Moscow State University <br>
+2012
