@@ -16,6 +16,7 @@ __M.A. in Economics - Industrial Organizations__ <br>
 New Economic School <br>
 2014
 
-__Diploma _Summa cum laude_ in International Economics and Management__ <br>
+__Diploma in International Economics and Management__ <br>
 Lomonosov Moscow State University <br>
+_Summa cum laude_
 2012
