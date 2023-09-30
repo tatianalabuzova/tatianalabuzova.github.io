@@ -13,6 +13,6 @@ title: About
     
   <p>My research focuses on labor market dynamics and the factors contributing to disparities. In my job market paper, I study how remote work options affect job application choices, including the implications of shifting towards work-from-anywhere on job seekers' decisions, and its consequences for gender equality.</p>
 
-  <p>Please find my CV <a href="/assets/cv/CV Tatiana Labuzova - 2023.08.03.pdf">here.</a></p>
+  <p>Please find my CV <a href="/assets/cv/CV Tatiana Labuzova - 2023.09.30.pdf">here.</a></p>
 
 </div>
