@@ -15,6 +15,6 @@ Bond, Brittany M., <span style="color:#000000"><b>Tatiana Labuzova</b></span>, a
 
 ### Dissertation Project
 
-<span style="color:#000000"><b>Tatiana Labuzova</b></span> " Work-from-Anywhere and Gender Equality: The Gendered Effects of COVID-19 Lockdowns on Job Posting Views and Application Submissions." _In progress_. 
+<span style="color:#000000"><b>Tatiana Labuzova</b></span> " Work-from-Anywhere and Gender Equality: The Gendered Effects of COVID-19 Lockdowns on Job Posting Views and Application Submissions." Major Revision at _Management Science_. 
 
 <p>In a pre-registered study of over 1,000,000 job seekers, I analyze the impact of the COVID-19 lockdown on job search behavior. Specifically, I explore the natural experiment of the lockdowns to examine how the external shock to the availability of work-from-anywhere jobs influences supply-side job search behavior and the gender wage gap in pursued positions.</p>
