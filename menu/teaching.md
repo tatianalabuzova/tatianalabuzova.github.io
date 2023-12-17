@@ -8,7 +8,7 @@ title: Teaching
 
 <span style="color:#000000"><b>Negotiation Analysis, Negotiation Seminar, Negotiation and Influence</b></span><br>
 Teaching Assistant for Professor Jared Curhan<br>
-The course received the Teaching with _Digital Technology Award_ from MIT.
+The course received the _Teaching with Digital Technology Award_ from MIT.
 
 <span style="color:#000000"><b>Leading Organizations</b></span> <br>
 Teaching Assistant for Professor Elsbeth Johnson <br>
